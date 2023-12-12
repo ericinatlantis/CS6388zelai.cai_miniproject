@@ -1,8 +1,0 @@
-[
-  {
-    "id": "ReactToe",
-    "title": "ReactToe",
-    "panel": "panels/ReactToe/ReactToePanel",
-    "DEBUG_ONLY": false
-  }
-]
